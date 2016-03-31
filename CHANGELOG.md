@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.9.0
+- Added some prettifying of autosuggested project title.
+- Bugfixes
+
 ## 2.8.0
 - You can now sort projects by the last modification date of the root path.
 - The Project Manager will now look for a local settings file (`project.cson`) for the currently active project and merge the settings with what's in `projects.cson`.
